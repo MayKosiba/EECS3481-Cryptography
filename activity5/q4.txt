@@ -1,0 +1,26 @@
+a. 
+
+With no eve interfering: 
+
+Alice's Raw Kay:     0 0 1 0 0 1 0 1 1 1 0 0 1 0 1 1
+Polarization Basis:  + + + x x + + + x + x + + x + x
+Bob's Basis:         + + x + x + + x x + + x + + x +
+unchanged keys:      0 0     0 1 0   1 1     1 
+shifted keys:            0 1       0     1 1   1 0 0
+
+correct key:         0 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+
+if Eve interfered: 
+
+Alice's Raw Kay:     0 0 1 0 0 1 0 1 1 1 0 0 1 0 1 1
+Polarization Basis:  + + + x x + + + x + x + + x + x
+Eve's Basis:         x . . . x . . . x . . . . . . .
+Bob's Basis:         + + x + x + + x x + + x + + x +
+unchanged keys:        0     0 1 0   1 1     1 
+shifted keys:        1   0 1       0     1 1   1 0 0
+
+interfered key:      1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+
+b. 8 unchanged bits.
+
+c. Eve guessed 2 correct since only the first bit changed

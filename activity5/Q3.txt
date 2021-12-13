@@ -1,0 +1,18 @@
+a. GlobalSign RSA
+
+b. 2022-07-30
+
+c.
+CN = *.yorku.ca
+O = York University
+OU = University Information Technology
+L = Toronto
+S = Ontario
+C = CA
+
+d. 
+ n = 30 82 01 0a 02 82 01 01 00 bb 64 83 45 7c 43 1b 3c 12 0c 40 b0 eb 13 5d 23 73 5c 79 6e ac b8 6c 65 2b a5 05 bb ac b9 26 5f b7 a9 f5 c0 a6 55 4a 9f f8 02 0c 04 63 94 31 ee 48 45 d9 70 1b ca 73 9c f3 0b 10 60 e8 8f 70 e8 80 ab be 44 a1 f5 cc 34 0a 68 10 26 b7 d2 06 fe ad 29 8c 31 37 13 0f 39 ec 57 4c ea ea 6b 93 d0 56 26 d8 06 ba 5b 45 19 b8 fc 93 f4 46 22 36 ae 92 31 bc 97 76 13 4f 4f f1 65 50 5f f7 5d 61 ef dc c9 d9 fb f7 72 c2 03 39 ab b9 1e 94 03 28 98 dd a6 93 77 73 bc 07 71 94 40 23 13 7c c7 27 ff d4 a0 ac f7 7b 19 ce 5d 44 8b 11 e9 30 e8 81 ac d3 29 c8 09 09 33 c9 de 23 cc 37 6f 77 c7 8d 82 07 71 6e a0 ed 0b 6c e6 42 0e 07 e8 bf 1e 9e db 20 09 25 11 22 98 f7 23 74 06 af 85 8c 32 97 98 b0 19 6e 03 2a 56 ca 7d cb f6 54 29 7e ff 7b b8 01 ae d8 c2 a2 35 7e 58 95 c7 59 ea 0d 81 39 31 02 03 01 00 01
+ e = 65537
+
+e. sha256RSA and sha256
+
